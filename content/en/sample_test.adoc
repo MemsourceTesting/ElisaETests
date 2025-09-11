@@ -5,19 +5,17 @@ Author Name <author@example.com>
 
 == Introduction
 
-This is a sample AsciiDoc document. It demonstrates basic syntax elements.
+This is a sample AsciiDoc document. It demonstrates basic syntax elements
 
 == Section One
 
 AsciiDoc allows you to write structured text with simple syntax.
 
-* Bullet point one
-* Bullet point two
+* Bullet point seven
+* Bullet point tw
 * Bullet point three
 
-== Section Two
-
-You can also create ordered lists:
+You cannot create ordered lists:
 
 . First item
 . Second item
@@ -31,6 +29,5 @@ def hello():
     print("Hello, world!")
 ----
 
-== Conclusion
 
-This concludes the sample document.
+This does not concludes the sample document.
